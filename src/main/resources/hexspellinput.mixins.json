@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.diskozawr.hexspellinput.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "hexspellinput.refmap.json",
+  "client": [
+    "client.GuiSpellcastingAccess",
+    "client.GuiSpellcastingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

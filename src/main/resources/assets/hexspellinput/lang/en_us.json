@@ -1,0 +1,22 @@
+{
+  "hexspellinput.input.hint": "Paste patterns: aqaa qqq ewd",
+  "hexspellinput.button.draw": "Draw",
+  "hexspellinput.button.stop": "Stop",
+  "hexspellinput.status.ready": "Ready",
+  "hexspellinput.status.checked": "Validated patterns: %s",
+  "hexspellinput.status.drawing": "Drawing %s/%s",
+  "hexspellinput.status.waiting": "Waiting for server response",
+  "hexspellinput.status.complete": "Spell drawn: %s patterns",
+  "hexspellinput.status.stopped": "Automatic drawing stopped",
+  "hexspellinput.error.empty": "Nothing to draw",
+  "hexspellinput.error.too_many": "Too many patterns",
+  "hexspellinput.error.input_too_long": "Input is too large",
+  "hexspellinput.error.pattern_too_long": "Error in pattern %s: pattern is too long",
+  "hexspellinput.error.unknown_direction": "Error in pattern %s: unknown direction \"%s\"",
+  "hexspellinput.error.invalid_character": "Error in pattern %s: invalid character \"%s\"",
+  "hexspellinput.error.invalid_pattern": "Error in pattern %s: %s",
+  "hexspellinput.error.intersection": "Error in pattern %s: a line intersects an existing line",
+  "hexspellinput.error.no_space": "Not enough free space on the grid",
+  "hexspellinput.error.timeout": "The server did not confirm the previous pattern",
+  "hexspellinput.tooltip.scroll_signature": "Stroke order: %s"
+}

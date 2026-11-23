@@ -1,0 +1,17 @@
+.gradle/
+build/
+run/
+runclient-check*.log
+runclient-check*.pid
+runs/
+out/
+bin/
+.idea/
+*.iml
+libs/*.jar
+*.log
+*.pid
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

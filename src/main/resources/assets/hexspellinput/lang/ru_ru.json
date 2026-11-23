@@ -1,0 +1,22 @@
+{
+  "hexspellinput.input.hint": "Вставьте паттерны: aqaa qqq ewd",
+  "hexspellinput.button.draw": "Нарисовать",
+  "hexspellinput.button.stop": "Стоп",
+  "hexspellinput.status.ready": "Готово",
+  "hexspellinput.status.checked": "Проверено паттернов: %s",
+  "hexspellinput.status.drawing": "Рисуется %s/%s",
+  "hexspellinput.status.waiting": "Ожидание ответа сервера",
+  "hexspellinput.status.complete": "Заклинание отрисовано: %s паттернов",
+  "hexspellinput.status.stopped": "Автоматическое рисование остановлено",
+  "hexspellinput.error.empty": "Нечего рисовать",
+  "hexspellinput.error.too_many": "Слишком много паттернов",
+  "hexspellinput.error.input_too_long": "Слишком большой ввод",
+  "hexspellinput.error.pattern_too_long": "Ошибка в паттерне %s: паттерн слишком длинный",
+  "hexspellinput.error.unknown_direction": "Ошибка в паттерне %s: неизвестное направление \"%s\"",
+  "hexspellinput.error.invalid_character": "Ошибка в паттерне %s: недопустимый символ \"%s\"",
+  "hexspellinput.error.invalid_pattern": "Ошибка в паттерне %s: %s",
+  "hexspellinput.error.intersection": "Ошибка в паттерне %s: линия пересекает уже проведённую линию",
+  "hexspellinput.error.no_space": "На доске недостаточно свободного места",
+  "hexspellinput.error.timeout": "Сервер не подтвердил предыдущий паттерн",
+  "hexspellinput.tooltip.scroll_signature": "Начертание: %s"
+}
